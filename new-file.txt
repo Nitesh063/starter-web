@@ -1,3 +1,4 @@
+Testing the git commit -am "<Commit text>" command
 dshafj hjsdhfhjh jhfd jdshf ajhd sjf
  dasfjhajhfhsl adhfjdhs fjhs djkhfs
   dfj hjkadlh fjhdsajkfhdjkb vj rhuvhreuh
